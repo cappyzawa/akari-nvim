@@ -28,7 +28,7 @@ M.night = {
   green = "#7FAF6A",
   yellow = "#D4A05A",
   blue = "#5A6F82",
-  magenta = "#7C6A8A",
+  magenta = "#8E7BA0",
   cyan = "#6F8F8A",
   white = "#E6DED3",
 
@@ -38,7 +38,7 @@ M.night = {
   bright_green = "#A1C492",
   bright_yellow = "#E4C397",
   bright_blue = "#8195A8",
-  bright_magenta = "#A294AD",
+  bright_magenta = "#B4A7C0",
   bright_cyan = "#9AB1AD",
   bright_white = "#EFEAE3",
 
@@ -49,6 +49,10 @@ M.night = {
   constant = "#8CA6A1",
   comment = "#7E93A6",
   path = "#7FAF6A",
+  macro = "#B4A7C0",
+  escape = "#B4A7C0",
+  regexp = "#A1C492",
+  link = "#8195A8",
 
   -- Diagnostic
   error = "#D25046",
@@ -111,6 +115,10 @@ M.dawn = {
   constant = "#447C7C",
   comment = "#222D38",
   path = "#3A5830",
+  macro = "#543F54",
+  escape = "#543F54",
+  regexp = "#20301A",
+  link = "#131A20",
 
   -- Diagnostic
   error = "#6A2828",
